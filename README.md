@@ -1,6 +1,6 @@
 # Aerial Template Matching Dataset
 
-This data accompanies the publication "Assisting UAV Localization via Deep Contextual Image Matching Using Semi-Local Constraints". For further details, read the paper.
+This data accompanies the publication "Assisting UAV Localization via Deep Contextual Image Matching". For further details, read the paper.
 
 Following is the structure of folders:
 
