@@ -13,6 +13,14 @@ Images from file 'Image1' to 'Image1200' belong to NUST Islamabad area.<br/>
 Images from file 'Image1201' to 'Image1680' belong to DHA Islamabad area.<br/>
 Images from file 'Image1681' to 'Image2052' belong to GujarKhan District area.<br/>
 
+To download dataset:
+
+```
+git clone https://github.com/m-hamza-mughal/aerial-template-matching-dataset.git
+cd aerial-template-matching-dataset
+bash download.sh
+```
+
 For queries, contact:
 Hamza Mughal
 mmughal.bee15seecs@seecs.edu.pk
