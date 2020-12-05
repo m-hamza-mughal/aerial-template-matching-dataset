@@ -21,6 +21,6 @@ cd aerial-template-matching-dataset
 bash download.sh
 ```
 
-For queries, contact:
-Hamza Mughal
-mmughal.bee15seecs@seecs.edu.pk
+For queries, contact:<br/>
+Hamza Mughal<br/>
+mmughal.bee15seecs@seecs.edu.pk<br/>
